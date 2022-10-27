@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **thaonguyen274/thaonguyen274** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 I am Thao Nguyen - a senior student at National Economics University. I am majoring in Data Science in Economics and Business (DSEB) and especially interested in Nature Language Processing. 
 
